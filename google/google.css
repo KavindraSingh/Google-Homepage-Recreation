@@ -1,0 +1,88 @@
+body{
+    background-image: url('bg1.jpg');
+    
+}
+#search-box{
+    margin-left: 400px;
+    margin-top: 40px;   
+}
+input{
+    padding-left: 40px;
+    border-radius: 40px;
+    height: 42px;
+    width: 550px;
+    font-size: 18px;
+   
+}
+#heading{
+    color: white;
+    font-size: 100px;
+    
+    margin-left: 530px;
+    margin-top: 120px;
+}
+#btn{
+    margin-left:550px ;
+    margin-top: 30px; 
+   
+}
+#btninside{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(141, 138, 138);
+    border: none;
+    border-radius: 5px;   
+   
+}
+#tagline{
+    margin-left: 540px;
+    color: white;
+}
+#language{
+    margin-left:400px ;
+    display:flex;
+}
+pre{
+    color: white
+}
+span{
+    margin-top: 100px;
+}
+#navdiv{
+    display:flex;
+    width:17%;
+    margin-left: 82%;
+    justify-content: space-around;
+    margin-top: 1%;
+    height:35px;
+  }
+  section{
+    display: flex;
+    margin-top: 2%;
+    width:23%;
+    justify-content: space-around;
+    margin-bottom: 2%;
+    margin-left: 40%;
+  }
+  section button{
+    padding:10px 12px;
+    background-color: rgb(129, 126, 126);
+    border: none;
+    border-radius: 3px;
+    height: 35px;
+  }
+  #temp{
+      color: black;
+      font-size: 15px;
+  }
+  a{
+      text-decoration: none;
+     color: white;
+  }
+  #signin{
+      background-color: rgb(5, 5, 163);
+      color: white;
+      border: none;
+      height: 25px;
+  }
+  
